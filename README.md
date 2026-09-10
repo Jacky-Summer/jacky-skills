@@ -11,9 +11,9 @@
 
 ## 个人 Skills
 
-| 名字 | 一句话 |
-| --- | --- |
-| [rename-session](./rename-session/) | 按「MMDD \| 类型 \| 主题」格式给 AI 会话起名 |
+| 名字 | 痛点 | 一句话 |
+| --- | --- | --- |
+| [rename-session](./rename-session/) | AI 会话太多太乱，回头找不到开过的会话 | 按「MMDD \| 类型 \| 主题」格式给 AI 会话起名 |
 
 ### rename-session
 
