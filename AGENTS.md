@@ -36,9 +36,3 @@
 4. git commit，提交信息带 skill 名。
 
 仓库里已有同名 skill 时：diff 两边内容，把差异摆给用户选，绝不自动覆盖。
-
-## 「写个新 skill」→ 个人区
-
-1. 在根目录建 `<name>/SKILL.md` 骨架（frontmatter：name、description），内容配合 skill-creator 完成。
-2. 按「条目写法」更新 README.md：目录表加一行，并新增小节。
-3. git commit，提交信息带 skill 名。

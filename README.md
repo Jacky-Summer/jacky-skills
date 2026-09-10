@@ -4,6 +4,8 @@
 
 我日常在用的 AI Agent Skills
 
+</div>
+
 仓库分两块：
 
 - **个人 Skills**：自己写和维护的，平铺在根目录。
@@ -27,4 +29,3 @@
 
 见 [COLLECTION.md](./COLLECTION.md)。
 
-</div>
