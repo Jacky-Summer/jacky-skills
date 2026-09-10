@@ -9,7 +9,7 @@
 仓库分两块：
 
 - **个人 Skills**：自己写和维护的，平铺在根目录。
-- **推荐的 Skills**：使用过程觉得不错的 skills → [COLLECTION.md](./COLLECTION.md)。
+- **推荐的 Skills**：使用过程觉得不错的 skills，详细见：[COLLECTION.md](./COLLECTION.md)。
 
 ## 个人 Skills
 
@@ -27,5 +27,14 @@
 
 ## 推荐的 Skills
 
-见 [COLLECTION.md](./COLLECTION.md)。
+详细见 [COLLECTION.md](./COLLECTION.md)。
+
+| 名字 | 痛点 | 一句话 |
+| --- | --- | --- |
+| [teach](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach) | 自学新领域没体系，学完就忘 | 把当前目录变成一间教室，按课程设计长期攻克一个主题 |
+| [eli5](https://github.com/anthropics/claude-plugins-community/tree/main/eli5/skills/eli5) | 面对陌生概念，文档啃不动 | 像对 5 岁小孩讲解一样科普：大图、少字、一眼看懂 |
+| [hv-analysis](https://github.com/KKKKhazix/khazix-skills/tree/main/hv-analysis) | 深度研究对象时，搜索摘要拼盘不够用 | 横纵分析法：纵向追时间线、横向追竞品，产出万字 PDF 报告 |
+| [grilling](https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling) | 计划没想透就开工，AI 拿错误的默认值瞎做 | 动手前无情拷问你的计划，直到没有想当然的分支 |
+| [find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills) | 想干一件事，不知道有没有现成的 skill | 从开源 skill 生态里搜索、把关、安装现成的 skill |
+| [handoff](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff) | 长任务跨会话接力，上下文丢了 | 把当前会话压缩成交接文档，让下一个 agent 无缝接手 |
 
